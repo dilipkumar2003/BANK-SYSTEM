@@ -1,0 +1,45 @@
+.tb{
+    width: 150%;
+    border: 1px solid black;
+}
+th,td,table{
+    width: auto;
+    height: auto;
+    border: 1px solid black;
+    text-align: center;
+    border-collapse: collapse;
+}
+.name:hover{
+    background-color: rgb(176, 233, 232);
+}
+.rgb{
+    background-color: rgb(125, 232, 232);
+}
+#search{
+    width: 25px;
+    margin-top: 10px;
+    margin-left: -160px;
+}
+#Name{
+    margin-left: 70px;
+    margin-bottom: 10px;
+}
+#box{
+    position: fixed;
+    margin-left:500px;
+    margin-top: 50px;
+    font-size: 25px;
+}
+#title{
+    margin-left: 180px;
+}
+#img{
+    position: fixed;
+}
+
+#jj{
+    margin-left: 400px;
+    height: 50px;
+    font-size: 15px;
+    cursor:pointer;
+}

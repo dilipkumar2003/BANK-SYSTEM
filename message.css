@@ -1,0 +1,18 @@
+#m{
+    width: 50%;
+    height: 220px;
+    border: 3px solid black;
+    text-align: center;
+    position: fixed;
+    margin-top: 5px;
+    margin-left: 450px;
+    border-radius: 70px 70px 70px 70px;
+    background-color: rgb(178, 244, 244);
+}
+
+.ll{
+    height: 30px;
+    border-radius: 45%;
+    cursor: pointer;
+    
+}
